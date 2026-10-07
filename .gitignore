@@ -1,0 +1,6 @@
+.DS_Store
+.claude/settings.local.json
+.claude/worktrees/
+
+# 著作権のあるPDFをコミットしたくない場合はコメントを外す
+# raw/*.pdf
